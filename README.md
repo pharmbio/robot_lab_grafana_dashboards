@@ -1,2 +1,2 @@
-# robot_lab_grafana_dashboards
+# Robot lab Grafana dashboards
 Grafana dashboards for monitoring of the AROS lab sensors an robots
